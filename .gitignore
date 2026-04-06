@@ -1,0 +1,29 @@
+# Database credentials
+db.php
+mpesa_config.php
+
+# Database files
+*.sql
+*.sql.gz
+
+# Error logs
+error.log
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+*.bak
+*.old
+
+# Temporary files
+*.tmp
+*.temp
